@@ -1,2 +1,1 @@
-# Paper-Pairwise-Sizes
-Восстановление когнетивных групп по связям между ними.
+# algorithms_for_paper_pairwise_sizes
