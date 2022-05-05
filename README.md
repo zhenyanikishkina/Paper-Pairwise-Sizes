@@ -1,4 +1,4 @@
-# Implementation_of_intersections_by_sets
+# Implementation of intersections by sets
 
 For a certain set of users of the same social network, thematic communities are defined in which users from the set consist. For each pair of different communities, it is known how many common users from the set are in them.
 
