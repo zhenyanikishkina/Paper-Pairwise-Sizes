@@ -1,4 +1,5 @@
-# algorithms_for_paper_pairwise_sizes
+# Implementation_of_intersections_by_sets
+
 For a certain set of users of the same social network, thematic communities are defined in which users from the set consist. For each pair of different communities, it is known how many common users from the set are in them.
 
 The received information about the sizes of pairwise intersections of communities is given to the participants of the competition so that they find the original set of users.
